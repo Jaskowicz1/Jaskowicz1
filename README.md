@@ -6,7 +6,7 @@ Want to contact me? Use any of these platforms!
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-twitter.svg" width="24px" align="top"> [`@JaskowiczArchie`](https://twitter.com/JaskowiczArchie)
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-discord.svg" width="24px" align="top"> `Jaskowicz#3537`
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaskowicz1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskowicz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaskowicz1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskowicz1&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 > Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats) :heart:
 
