@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Archie Jaskowicz, I do programming in Java, C#, node.js, C++ (Beginner) and Python. I also make Games!
+I'm Archie Jaskowicz, I enjoy programming primarily in Java and C++ but I also use other languages like JavaScript, Python and C#! I'm also a Game Developer in Unreal Engine 4.
+
+[`My website`](https://jaskowicz.xyz/)
 
 Want to contact me? Use any of these platforms!
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-twitter.svg" width="24px" align="top"> [`@JaskowiczArchie`](https://twitter.com/JaskowiczArchie)
