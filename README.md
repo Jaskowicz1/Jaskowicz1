@@ -8,17 +8,9 @@ Want to contact me? Use any of these platforms!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaskowicz1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskowicz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats) :heart:
-
-
-<!--
+> Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
 
 #### :telescope: Projects
 
-- [`LolBans`](https://github.com/NotZachery/lolbans-plugin) - An advanced punishment management system for Minecraft
-
--->
-
-#### :couple: Cool people
-
-- [`NotZachery`](https://github.com/NotZachery)
+- [`Minecraft To UE4`](https://github.com/Jaskowicz1/MinecraftToUE4) - A project that brings minecraft to UE4.
+- [`OITC`](https://github.com/Jaskowicz1/OITC-UE4) - A game I made over the course of a few months in UE4.
