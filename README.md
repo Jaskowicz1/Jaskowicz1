@@ -14,7 +14,7 @@ Here's some of my stats for my Github Page!
 
 #### :telescope: Projects
 
-- [AI Maze](https://github.com/Jaskowicz1/AIMaze) - An AI that navigates a maze, made in C++ using SFML.
+- [rconpp](https://github.com/Jaskowicz1/rconpp) - A modern Source-RCON library in C++.
 - [Eldoria's Last Stand](https://github.com/Jaskowicz1/EldoriasLastStand) - A game in UE5 built mostly with C++ for University (Source code only).
 - [Minecraft To UE4](https://github.com/Jaskowicz1/MinecraftToUE4) - A project that brings minecraft to UE4.
 - [OITC](https://github.com/Jaskowicz1/OITC-UE4) - A game I made over the course of a few months in UE4.
