@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Archie Jaskowicz, I'm an Interactive Real-Time 3D Developer for Infinity27 and an Indie Game Developer in my own time. I work on many projects in my free-time as I always think I can learn more and improve.
+I'm Archie Jaskowicz, I'm a professional Games programmer. I work on many projects in my free-time as I always think I can learn more and improve.
 
 Want to see some of my Unreal Engine work? Want to contact me? Want in-depth explanations of projects? Check out [my website](https://jaskowicz.xyz/)!
 
