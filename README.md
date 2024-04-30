@@ -15,7 +15,7 @@ Here's some of my stats for my Github Page!
 #### :telescope: Projects
 
 - [rconpp](https://github.com/Jaskowicz1/rconpp) - A modern Source-RCON library in C++.
-- [Hexwave](https://github.com/Jaskowicz1/Hexwave) - An Engine for making Interactive Films, in C++.
+- [Hexwave](https://github.com/Jaskowicz1/Hexwave) - An Open-Source Interactive Film Engine that lets you create Interactive Films with ease. Written in C++.
 - [Factorio-Discord-Relay Revamped](https://github.com/Jaskowicz1/fdr-remake) - A tool that allows you to connect Discord and Factorio together!
 - [Eldoria's Last Stand](https://github.com/Jaskowicz1/EldoriasLastStand) - A game in UE5 built mostly with C++ for University (Source code only).
 - [Minecraft To UE4](https://github.com/Jaskowicz1/MinecraftToUE4) - A project that brings minecraft to UE4.
