@@ -8,8 +8,6 @@ Want to see some of my Unreal Engine work? Want to contact me? Want an in-depth 
 
 <hr />
 
-Here's some of my stats for my Github Page!
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaskowicz1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskowicz1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
