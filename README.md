@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Archie Jaskowicz! I'm a Placement Programmer at Double Eleven, a PR reviewer for D++, A student at Teesside University, and the creator of RCON++ and Hexwave.
+I'm Archie Jaskowicz! I'm a Junior Programmer at Double Eleven, a PR reviewer for D++, A student at Teesside University, and the creator of RCON++ and Hexwave.
 
 I spend most my free time working on RCON++ and Hexwave alongside the occasional game.
 
