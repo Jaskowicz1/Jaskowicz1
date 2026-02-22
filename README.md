@@ -8,13 +8,6 @@ Want to see some of my Unreal Engine work? Want to contact me? Want an in-depth 
 
 <hr />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jaskowicz1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskowicz1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-> Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
-
-<hr />
-
 #### :telescope: Projects
 
 - [Hexwave](https://github.com/Jaskowicz1/Hexwave) - An Open-Source Interactive Film Engine that lets you create Interactive Films with ease. Written in C++.
