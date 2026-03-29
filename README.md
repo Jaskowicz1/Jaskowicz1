@@ -4,7 +4,7 @@ I'm a Junior Programmer at Double Eleven, a PR reviewer for D++, A student at Te
 
 Feel free to check out [my website](https://jaskowicz.xyz/) where you can see all my projects, or scroll down!
 
-### Most of my projects are now maintained at [codeberg](https://codeberg.org/Jaskowicz). I do not align with GitHub's actions and will not continue to support GitHub any longer.
+### Most of my projects are now maintained at [Codeberg](https://codeberg.org/Jaskowicz). I do not align with GitHub's actions and will not continue to support GitHub any longer.
 
 <hr />
 
